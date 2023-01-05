@@ -33,6 +33,7 @@ The Implementation and the remaining IC's is same as what ben used in his videos
 **Link to youtube video demonstration :** :film_strip:
 [![IMAGE ALT TEXT HERE](https://i.imgur.com/cQbpVxn.png)](https://www.youtube.com/watch?v=XBoaQCD_zWA)
 
+---
 
 ##### ALU :
 In this module I used : 
