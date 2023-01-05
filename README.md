@@ -18,3 +18,9 @@ Specifications :
 
 **Link to youtube video demonstration :** :film_strip:
 [![IMAGE ALT TEXT HERE](https://i.imgur.com/cQbpVxn.png)](https://www.youtube.com/watch?v=XBoaQCD_zWA)
+
+---
+
+##### Registers : 
+In this module I used [74LS173N](https://www.jameco.com/z/74LS173-Major-Brands-IC-74LS173-4-BIT-D-TYPE-REGISTER-3-STATE-OUTPUT_46922.html) IC for the 4-bit D-Type registers.
+![IC's Package:](https://i.imgur.com/ziqLQek.jpg)
