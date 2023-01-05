@@ -9,3 +9,12 @@ Specifications :
 - Pulsating Clock Mode.
 - Step by Step Clock Mode.
 - Halt Mode.
+
+**Module Photos**
+![clock1:](https://i.imgur.com/BZQZCNP.jpg)
+![clock2:](https://i.imgur.com/8KJAW20.jpg)
+
+
+
+**Link to youtube video demonstration :** :film_strip:
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/cQbpVxn.png)](https://www.youtube.com/watch?v=XBoaQCD_zWA)
