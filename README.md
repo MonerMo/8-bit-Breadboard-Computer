@@ -1,5 +1,10 @@
 # 8-bit-Breadboard-Computer
 This repository will be a documentation for my journey bulding 8-bit breadboard computer 
+:rotating_light: :rotating_light: I finished the following and the repository will be updated after 14/6 because I have exams right now. 
+:white_check_mark: RAM Module 
+:white_check_mark: Counter
+:white_check_mark: ROM
+:white_check_mark: Seven Segment for numbers
 
 ## Merging the Clock with Registers and ALU.
 ###### Clock : 
