@@ -6,9 +6,9 @@ This repository will be a documentation for my journey bulding 8-bit breadboard 
 - :white_check_mark: [Processor Registers](#processor-registersregister-a--b)
 - :white_check_mark: [ALU with Registers](#alu)
 - :white_check_mark: [RAM Module](#ram-module) 
-- :white_check_mark: ROM
-- :white_check_mark: Seven Segment for data representation
-- :white_check_mark: Auxilary Register for Reading Data Bus
+- :white_check_mark: [ROM Module](#rom-module)
+- :white_check_mark: [Seven Segment for data representation](#rom-module--7-segment)
+- :white_check_mark: [Auxilary Register for Reading Data Bus](#auxilary-register-for-reading-data-bus)
 
 ## Merging the Clock with Registers and ALU.
 # Source Clock based on 555 Timer IC
