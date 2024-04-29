@@ -4,6 +4,7 @@ This repository will be a documentation for my journey bulding 8-bit breadboard 
 :rotating_light: :rotating_light: I finished the following 
 - :white_check_mark: [Source Clock Module](#source-clock-based-on-555-timer-ic)
 - :white_check_mark: [Processor Registers](#processor-registersregister-a--b)
+- :white_check_mark: [ALU with Registers](#alu)
 - :white_check_mark: RAM Module 
 - :white_check_mark: Counter
 - :white_check_mark: ROM
@@ -43,7 +44,7 @@ The Implementation and the remaining IC's is same as what ben used in his videos
 
 ---
 
-##### ALU :
+# ALU 
 In this module I used : 
 - SN54/74LS83A 4-BIT BINARY FULL ADDER WITH FAST CARRY.
 - M74HCT245 OCTAL BUS TRANSCEIVER WITH 3 STATE OUTPUTS.
