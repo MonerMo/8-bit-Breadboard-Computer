@@ -3,7 +3,7 @@ This repository will be a documentation for my journey bulding 8-bit breadboard 
 
 :rotating_light: :rotating_light: I finished the following 
 - :white_check_mark: [Source Clock Module](#source-clock-based-on-555-timer-ic)
-- :white_check_mark: [Processor Registers](#processor-registers(register-a-&-b))
+- :white_check_mark: [Processor Registers](#processor-registersregister-a--b)
 - :white_check_mark: RAM Module 
 - :white_check_mark: Counter
 - :white_check_mark: ROM
