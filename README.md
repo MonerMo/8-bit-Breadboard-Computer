@@ -2,7 +2,7 @@
 This repository will be a documentation for my journey bulding 8-bit breadboard computer.
 
 :rotating_light: :rotating_light: I finished the following 
-- :white_check_mark: [Source Clock Module](source-clock-based-on-555-timer-ic) 
+- :white_check_mark: [Source Clock Module](#source-clock-based-on-555-timer-ic) 
 - :white_check_mark: RAM Module 
 - :white_check_mark: Counter
 - :white_check_mark: ROM
