@@ -51,10 +51,11 @@ In this module I used :
 - SN54/74LS86 QUAD 2-INPUT EXLUSIVE OR GATE.
 
 **Module Photos**
+![ALU moudle:](https://i.imgur.com/JxEyBlY.jpeg)
+![ALU module:](https://i.imgur.com/ASesUQI.jpeg)
 ![ALU module:](https://i.imgur.com/6WMfTsS.jpg)
 ![ALU module:](https://i.imgur.com/9XWqc8b.jpg)
 ![ALU module:](https://i.imgur.com/Ll7SI1Y.jpg)
-![ALU moudle:](https://i.imgur.com/JxEyBlY.jpeg)
-![ALU module:](https://i.imgur.com/ASesUQI.jpeg)
+
 
 
