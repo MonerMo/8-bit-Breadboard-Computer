@@ -58,6 +58,10 @@ In this module I used :
 ![ALU module:](https://i.imgur.com/9XWqc8b.jpg)
 ![ALU module:](https://i.imgur.com/Ll7SI1Y.jpg)
 
+
+**Link to youtube video demonstration :** :film_strip:
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/vaWa5lL.png)](https://www.youtube.com/watch?v=cbQ7tUrKKdA)
+
 ---
 # RAM Module
 **Module Photos**
