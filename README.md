@@ -39,9 +39,6 @@ The Implementation and the remaining IC's is same as what ben used in his videos
 **Module Photos**
 ![Register module:](https://i.imgur.com/WnOKqrx.jpg)
 
-**Link to youtube video demonstration :** :film_strip:
-[![IMAGE ALT TEXT HERE](https://i.imgur.com/cQbpVxn.png)](https://www.youtube.com/watch?v=XBoaQCD_zWA)
-
 ---
 
 # ALU 
