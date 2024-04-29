@@ -2,7 +2,8 @@
 This repository will be a documentation for my journey bulding 8-bit breadboard computer.
 
 :rotating_light: :rotating_light: I finished the following 
-- :white_check_mark: [Source Clock Module](#source-clock-based-on-555-timer-ic) 
+- :white_check_mark: [Source Clock Module](#source-clock-based-on-555-timer-ic)
+- :white_check_mark: [Processor Registers](#processor-registers(register-a-&-b))
 - :white_check_mark: RAM Module 
 - :white_check_mark: Counter
 - :white_check_mark: ROM
@@ -28,7 +29,7 @@ Specifications :
 
 ---
 
-##### Registers : 
+# Processor Registers(Register A & B) 
 In this module I used [74LS173N](https://www.jameco.com/z/74LS173-Major-Brands-IC-74LS173-4-BIT-D-TYPE-REGISTER-3-STATE-OUTPUT_46922.html) IC for the 8-bit register.
 ![IC's Package:](https://i.imgur.com/ziqLQek.jpg)
 
