@@ -54,5 +54,7 @@ In this module I used :
 ![ALU module:](https://i.imgur.com/6WMfTsS.jpg)
 ![ALU module:](https://i.imgur.com/9XWqc8b.jpg)
 ![ALU module:](https://i.imgur.com/Ll7SI1Y.jpg)
+![ALU moudle:](https://i.imgur.com/JxEyBlY.jpeg)
+![ALU module:](https://i.imgur.com/ASesUQI.jpeg)
 
 
