@@ -5,10 +5,10 @@ This repository will be a documentation for my journey bulding 8-bit breadboard 
 - :white_check_mark: [Source Clock Module](#source-clock-based-on-555-timer-ic)
 - :white_check_mark: [Processor Registers](#processor-registersregister-a--b)
 - :white_check_mark: [ALU with Registers](#alu)
-- :white_check_mark: RAM Module 
-- :white_check_mark: Counter
+- :white_check_mark: [RAM Module](#ram-module) 
 - :white_check_mark: ROM
-- :white_check_mark: Seven Segment for numbers
+- :white_check_mark: Seven Segment for data representation
+- :white_check_mark: Auxilary Register for Reading Data Bus
 
 ## Merging the Clock with Registers and ALU.
 # Source Clock based on 555 Timer IC
@@ -60,6 +60,22 @@ In this module I used :
 
 ---
 # RAM Module
+**Module Photos**
+![RAM module:](https://i.imgur.com/hZh622w.jpeg)
+![RAM module:](https://i.imgur.com/RNc7V8f.jpeg)
+![RAM module:](https://i.imgur.com/50xHLHR.jpeg)
 
+---
+# ROM Module
+**Module Photos**
+![ROM Module:](https://i.imgur.com/ip8IT5f.jpeg)
 
+---
+# ROM Module & 7 Segment
+![Integrating](https://i.imgur.com/Nm9iW7k.jpeg)
+![Integrating](https://i.imgur.com/ImdbJq4.jpeg)
+
+---
+# Auxilary Register for Reading Data Bus
+![Auxilary](https://i.imgur.com/S2lPZmY.jpeg)
 
